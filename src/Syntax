@@ -1,0 +1,9 @@
+use csv file to calculate delivery for scope of destinations:
+[-u {userEmail} -f {pathToFile} {width} {height} {length} {pounds} {ounces}]
+example:
+node src -e vasya@gmail.com -f example.csv 1 2 1 1 1 
+
+calculate delivery to 1 destination 
+[-u {userEmail} {width} {height} {length} {pounds} {ounces} {zipDestination} {container} ]
+example:
+node src -e vasya@gmail.com 1 2 1 1 1 02111 legalFlatRateEnvelop
