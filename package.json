@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "csv-parser": "^2.3.2",
     "email-templates": "^6.1.1",
     "knex": "^0.20.7",
