@@ -3,7 +3,7 @@
     "config": "^3.2.4",
     "csv-parser": "^2.3.2",
     "email-templates": "^6.1.1",
-    "knex": "^0.20.7",
+    "knex": "^2.4.0",
     "mysql": "^2.17.1",
     "pug": "^2.0.4",
     "request": "^2.85.0",
